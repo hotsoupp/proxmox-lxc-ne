@@ -1,2 +1,2 @@
 # proxmox-lxc-ne
-Installation script for Node exporter on all LXC's
+Installation script for installing Node exporter on all LXC's within Proxmox
