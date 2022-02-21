@@ -1,8 +1,6 @@
 # proxmox-lxc-ne
-Installation script for installing Node exporter on all LXC's within Proxmox
+Installation script for installing [Node Exporter Prometheus](https://github.com/prometheus/node_exporter) on all LXC's within Proxmox
 
-
-Installation
 
 On your Proxmox Node run:
 1. ```cd ~```
